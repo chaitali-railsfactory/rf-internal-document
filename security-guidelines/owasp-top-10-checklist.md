@@ -108,4 +108,4 @@ This checklist is designed to help developers—especially freshers—understand
 
 ---
 
-**Pro Tip:** Bookmark this checklist and revisit it during every web development project. Secure by design = Peace of mind. 🚀  
+**Pro Tip:** Bookmark this checklist and revisit it during every web development project.
