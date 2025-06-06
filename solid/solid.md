@@ -175,10 +175,6 @@ class EmailService
   def send_email(user)
     # OK
   end
-
-  def send_sms(user)
-    raise NotImplementedError
-  end
 end
 
 # Good: Split per responsibility
